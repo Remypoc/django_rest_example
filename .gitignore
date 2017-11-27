@@ -99,3 +99,12 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# Pycharm
+.idea/
+
+# Django default db
+db.sqlite3
+
+# App media files
+media/
